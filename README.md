@@ -3,7 +3,7 @@
 ## 1- Prérequis:
 
 La procédure décrite ci-dessous concerne l'installation de Grunt sur un système **OS X** (10.9 Mavericks).
-Certains détails peuvent différer sous MS Windows et GNU/Linux. Mais dans l'ensemble, on peut appliquer
+Certains détails peuvent différer sous MS Windows et GNU/Linux. Mais dans l'ensemble, on peut appliquer cette procédure aux différents systèmes d'exploitation mentionnés ici.
 
 **IMPORTANT :** Avant de commencer l'installation et le paramètrage de Grunt, **[Node.js ](http://nodejs.org/ "Node.js")** doit être installé sur le système.
 
