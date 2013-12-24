@@ -1,9 +1,9 @@
-# INSTALLATION DE GRUNT (Mac O-SX 10.9)
+# INSTALLATION DE GRUNT
 
 ## 1- Prérequis:
 
 La procédure décrite ci-dessous concerne l'installation de Grunt sur un système **OS X** (10.9 Mavericks).
-Certains détails peuvent différer sous MS Windows et GNU/Linux. Mais dans l'ensemble, on peut appliquer cette procédure aux différents systèmes d'exploitation mentionnés ici.
+Certains détails peuvent différer sous MS Windows et GNU/Linux. Mais dans l'ensemble, on peut appliquer
 
 **IMPORTANT :** Avant de commencer l'installation et le paramètrage de Grunt, **[Node.js ](http://nodejs.org/ "Node.js")** doit être installé sur le système.
 
@@ -91,7 +91,7 @@ On y ntégre les paramètres du plugin et donc de la tâche à réaliser à l'in
 
 **Note**:
 
-- Dans l'exemple ci-dessus, le paramètre `dist:` peut être remplacer par n'importe quelle autre dénomination. On pourrait le nommer `concat` ou autrement. On lui indique quels sont les fichiers à concaténer (`src:`) et quel sera le fichier de sortie, avec sa destination: `dest:`.
+- Dans l'exemple ci-dessus, le paramètre `dist:` peut être remplacé par n'importe quelle autre dénomination. On pourrait le nommer `concat` ou autrement. On indique ensuite comme option les fichiers à concaténer (`src:`) et quel sera le fichier de sortie, ainsi que sa destination: `dest:`.
 
 - Le paramètre `options:` permet de définir l'ensemble des options disponibles pour le plugin qui est utilisé. Il faut consulter la documentation du plugin pour connaître l'ensemble des options qui sont disponibles.
 
